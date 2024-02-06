@@ -1,0 +1,2 @@
+# galerifoto
+Galeri Foto Sekolah
